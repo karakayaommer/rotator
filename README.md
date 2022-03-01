@@ -1,0 +1,2 @@
+# rotator
+Web yönlendirme
