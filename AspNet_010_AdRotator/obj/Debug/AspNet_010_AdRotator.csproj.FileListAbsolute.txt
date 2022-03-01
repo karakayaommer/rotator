@@ -1,0 +1,12 @@
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_010_AdRotator\AspNet_010_AdRotator\bin\AspNet_010_AdRotator.dll
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_010_AdRotator\AspNet_010_AdRotator\bin\AspNet_010_AdRotator.pdb
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_010_AdRotator\AspNet_010_AdRotator\obj\Debug\AspNet_010_AdRotator.csprojResolveAssemblyReference.cache
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_010_AdRotator\AspNet_010_AdRotator\obj\Debug\AspNet_010_AdRotator.dll
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_010_AdRotator\AspNet_010_AdRotator\obj\Debug\AspNet_010_AdRotator.pdb
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_010_AdRotator\AspNet_010_AdRotator\bin\AspNet_010_AdRotator.dll.config
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_010_AdRotator\AspNet_010_AdRotator\bin\AspNet_010_AdRotator.dll
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_010_AdRotator\AspNet_010_AdRotator\bin\AspNet_010_AdRotator.pdb
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_010_AdRotator\AspNet_010_AdRotator\obj\Debug\AspNet_010_AdRotator.csproj.AssemblyReference.cache
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_010_AdRotator\AspNet_010_AdRotator\obj\Debug\AspNet_010_AdRotator.csproj.CoreCompileInputs.cache
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_010_AdRotator\AspNet_010_AdRotator\obj\Debug\AspNet_010_AdRotator.dll
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_010_AdRotator\AspNet_010_AdRotator\obj\Debug\AspNet_010_AdRotator.pdb
